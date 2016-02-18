@@ -85,16 +85,14 @@ font-size: 20px;
 			</li>
 			<li>CSS
 				<ol>
-					<li><a href="css/ThemeToAll/theme_to_all.jsp" >ThemeToAll Demo</a></li>
-					<li>Zignals</li>
-					<li>ByteTaxi</li>
+					<li><a href="CSS/ThemeToAll/theme_to_all.jsp" >ThemeToAll Demo</a></li>
+					 
 				</ol>
 			</li>
-			<li>Yahoo!
+			<li>Google tranlate 
 				<ol>
-					<li>Xoopit</li>
-					<li>BuzzTracker</li>
-					<li>MyBlogLog</li>
+					<li><a href="GoogleTranslate_Multilanguage/google-tanslate.jsp">Translate eng-mar using google tranlate</a></li>
+					 
 				</ol>
 			</li>
 		</ol>
