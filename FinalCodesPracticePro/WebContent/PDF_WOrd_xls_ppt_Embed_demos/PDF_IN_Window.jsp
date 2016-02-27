@@ -34,7 +34,7 @@ object {
 
 <body>
 
-<object	data="Hashing.pdf#toolbar=1&amp;navpanes=0&amp;scrollbar=1&amp;page=1&amp;view=FitH" 
+<object	data="pdf/Hashing.pdf#toolbar=1&amp;navpanes=0&amp;scrollbar=1&amp;page=1&amp;view=FitH" 
         type="application/pdf" 
         width="100%" 
         height="100%">
