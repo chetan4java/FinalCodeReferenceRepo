@@ -5,19 +5,13 @@
 <title>Bootstrap 3 Responsive Layout Example</title>
 
 
-<!-- <link href="css/bootstrap-theme.min.css" rel="stylesheet"
+  <link href="../css/bootstrap-theme.min.css" rel="stylesheet"
 	type="text/css" />
-<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-<script src="js/bootstrap.min.js" type="text/javascript"></script>
-<script src="js/jquery.min.js" type="text/javascript"></script> -->
-<link rel="stylesheet"
-	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-<link rel="stylesheet"
-	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
-<script
-	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script
-	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="../css/examples.css" rel="stylesheet" type="text/css"  />
+<script src="../js/bootstrap.min.js" type="text/javascript"></script>
+<script src="../js/jquery.min.js" type="text/javascript"></script>
+ 
 <style type="text/css">
 .bs-example {
 	margin: 20px;
@@ -27,14 +21,14 @@
 
 <body>
 	<div class="bs-example">
-		<form action="" class="form-inline" role="form">
+		<form action="" class="form-horizontal" role="form">
 			<div class="form-group">
-				<label for="inputEmail" class="sr-only">Email</label> <input type="email"
-					id="inputEmail" placeholder="Email" class="form-control">
+				<label for="inputEmail"  class="control-label sr-only" >Email</label> <input type="email"
+					id="inputEmail" placeholder="Email" class="form-control input-sm">
 			</div>
 
 			<div class="form-group">
-				<label for="inputPassword" class="sr-only">Password</label> <input type="password"
+				<label for="inputPassword" class="control-label sr-only "  >Password</label> <input type="password"
 					id="inputPassword" placeholder="Password" class="form-control">
 			</div>
 
